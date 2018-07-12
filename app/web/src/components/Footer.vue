@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        David 5 Global Blackbelt Team
+        David 6 Global Blackbelt Team
       </div>
       <div class="col-lg-6">
       </div>
